@@ -1,0 +1,16 @@
+name: Update Medium posts
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
