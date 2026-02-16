@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=170&section=header&text=Piyush%20Choudhary&fontSize=44&fontAlignY=35&desc=Data%20Analyst%20(Water%2FWastewater%20Ops)%20%E2%80%A2%20Data%20Science%20%26%20Scientific%20Computing%20%E2%80%A2%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%E2%80%A2%20LLMs%20%26%20Agentic%20AI&descAlignY=62" />
+  <img src="./assets/banner.svg" alt="banner" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Piyush Choudhary</h2>
+
+<p align="center">
+  <b>Data Analyst (Water/Wastewater Ops)</b> • <b>Data Science & Scientific Computing</b> • <b>Python | SQL | Power BI</b> • <b>LLMs & Agentic AI</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyush-Choudhary3757&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -29,10 +33,19 @@
 <ul>
   <li><b>Water & Wastewater Ops Analytics</b> — automated reporting, KPI dashboards, QA checks, and cost/effort insights.</li>
   <li><b>Data Products</b> — pipelines → trusted metrics → dashboards → decisions.</li>
-  <li><b>Exploring LLMs & Agentic AI</b> — RAG, tools, automation, and evaluation.</li>
+  <li><b>LLMs & Agentic AI</b> — exploring RAG, tools, automation, and evaluation.</li>
 </ul>
 
-<h2>🧠 Top Skills</h2>
+<h2>✨ Current Focus</h2>
+
+<ul>
+  <li>🌱 Advanced SQL, experimentation/product analytics, time series</li>
+  <li>🧠 LLM engineering: RAG patterns, evaluation, and reliability</li>
+  <li>🤝 Open to collaborations on analytics products, ML, and LLM tooling</li>
+  <li>⚡ Fun fact: I built a proof-of-work “Bitcoin mining” demo in Python years ago 😄</li>
+</ul>
+
+<h2>🧰 Top Skills</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,sklearn,pytorch,tensorflow,git,github,linux,docker,aws,azure,gcp,opencv,matlab&perline=10" />
@@ -49,7 +62,19 @@
   </a>
 </p>
 
-<h2>📊 GitHub</h2>
+<p align="center">
+  <a href="https://github.com/Piyush-Choudhary3757/CAP-5771-Introduction-to-Data-Mining">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=CAP-5771-Introduction-to-Data-Mining&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-Choudhary3757&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush-Choudhary3757&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -64,6 +89,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Choudhary3757&theme=github-compact&hide_border=true" />
 </p>
 
+<hr/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" />
+  <b>Let’s connect:</b>
+  <a href="https://www.linkedin.com/in/piyush-c3757">LinkedIn</a> •
+  <a href="mailto:piyush99939@gmail.com">Email</a>
 </p>
