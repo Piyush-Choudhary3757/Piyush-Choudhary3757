@@ -1,0 +1,16 @@
+name: Update Personal blog posts
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "YOUR_BLOG_RSS_URL"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
