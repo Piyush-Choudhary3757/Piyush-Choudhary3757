@@ -3,123 +3,64 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Piyush Choudhary</h2>
-<p align="center">
-  <b>Data Analyst (Water/Wastewater Ops)</b> • <b>Data Science & Scientific Computing</b> • <b>Python | SQL | Power BI</b> • Exploring <b>LLMs & Agentic AI</b>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyush-Choudhary3757&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Piyush-Choudhary3757?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Piyush-Choudhary3757?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/followers/Piyush-Choudhary3757?style=for-the-badge&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/stars/Piyush-Choudhary3757?style=for-the-badge&label=Stars&logo=github" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/piyush-c3757" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:piyush99939@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-View-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-Open-2E7D32?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="https://x.com/YOUR_X_HANDLE">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://github.com/Piyush-Choudhary3757" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio%20(Coming%20Soon)-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<br/>
+<hr/>
 
-<h2>🚀 About Me</h2>
+<h2>🚀 What I do</h2>
 
 <ul>
-  <li>🔭 Building <b>Water & Wastewater Operational Analytics</b> — automated reporting, KPI dashboards, QA checks, and cost/effort insights.</li>
-  <li>🤝 Interested in <b>utility analytics</b>, <b>data products</b>, and <b>LLM/agentic workflows</b> that drive real operations.</li>
-  <li>🌱 Currently learning <b>advanced SQL</b>, <b>experimentation/product analytics</b>, <b>time series</b>, and <b>LLM engineering</b>.</li>
-  <li>💬 Ask me about <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, analytics pipelines, metrics, ML basics, LLM tooling.</li>
-  <li>⚡ Fun fact: I built a tiny proof-of-work “Bitcoin mining” demo in Python years ago 😄</li>
+  <li><b>Water & Wastewater Ops Analytics</b> — automated reporting, KPI dashboards, QA checks, and cost/effort insights.</li>
+  <li><b>Data Products</b> — pipelines → trusted metrics → dashboards → decisions.</li>
+  <li><b>Exploring LLMs & Agentic AI</b> — RAG, tools, automation, and evaluation.</li>
 </ul>
 
-<br/>
-
-<h2>🏆 GitHub Trophies</h2>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-Choudhary3757&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-<br/>
-
 <h2>🧠 Top Skills</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,sqlite,sklearn,pytorch,tensorflow,docker,linux,git,github,aws,azure,gcp,opencv,matlab&perline=12" />
-</p>
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,sklearn,pytorch,tensorflow,git,github,linux,docker,aws,azure,gcp,opencv,matlab&perline=10" />
+</p>
 
 <h2>📌 Featured Projects</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/Piyush-Choudhary3757/the-Fake-News-Detection-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=the-Fake-News-Detection-AI&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Piyush-Choudhary3757/Normal-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=Normal-project&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Piyush-Choudhary3757/CAP-5771-Introduction-to-Data-Mining">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=CAP-5771-Introduction-to-Data-Mining&theme=github_dark&hide_border=true" />
-  </a>
 </p>
 
-<br/>
+<h2>📊 GitHub</h2>
 
-<h2>📊 GitHub Stats</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Choudhary3757&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-Choudhary3757&theme=github-dark-blue&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Choudhary3757&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush-Choudhary3757&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Choudhary3757&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<br/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Piyush-Choudhary3757&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<h2>📝 Latest Dev.to Posts</h2>
-
-<!-- DEVTO:START -->
-- (auto-updated by GitHub Actions)
-<!-- DEVTO:END -->
-
-<br/>
-
-<h2>✍️ Latest Medium Posts</h2>
-
-<!-- MEDIUM:START -->
-- (auto-updated by GitHub Actions)
-<!-- MEDIUM:END -->
-
-<br/>
-
-<h2>🌐 Latest Blog Posts</h2>
-
-<!-- BLOG:START -->
-- (auto-updated by GitHub Actions)
-<!-- BLOG:END -->
-
-<br/>
-
-<h2>📈 Activity Graph</h2>
-<p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Choudhary3757&theme=github-compact&hide_border=true" />
 </p>
 
