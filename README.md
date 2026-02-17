@@ -51,12 +51,6 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,sklearn,pytorch,tensorflow,git,github,linux,docker,aws,azure,gcp,opencv,matlab&perline=10" />
 </p>
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-Choudhary3757&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
