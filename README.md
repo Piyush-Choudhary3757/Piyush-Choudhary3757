@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm Piyush Choudhary</h2>
 
 <p align="center">
-  <b>Data Analyst (Water/Wastewater Ops)</b> • <b>Data Science & Scientific Computing</b> • <b>Python | SQL | Power BI</b> • <b>LLMs & Agentic AI</b>
+  <b>Data Analyst (Water/Wastewater Ops)</b> • <b>Data Science & Scientific Computing</b> • <b>Python | SQL | Power BI</b> • <b>LLMs &amp; Agentic AI</b>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-c3757" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:piyush99939@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Piyush-Choudhary3757" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio%20(Coming%20Soon)-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://piyush-choudhary3757.github.io/My_site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -31,9 +31,9 @@
 <h2>🚀 What I do</h2>
 
 <ul>
-  <li><b>Water & Wastewater Ops Analytics</b> — automated reporting, KPI dashboards, QA checks, and cost/effort insights.</li>
+  <li><b>Water &amp; Wastewater Ops Analytics</b> — automated reporting, KPI dashboards, QA checks, and cost/effort insights.</li>
   <li><b>Data Products</b> — pipelines → trusted metrics → dashboards → decisions.</li>
-  <li><b>LLMs & Agentic AI</b> — exploring RAG, tools, automation, and evaluation.</li>
+  <li><b>LLMs &amp; Agentic AI</b> — exploring RAG, tools, automation, and evaluation.</li>
 </ul>
 
 <h2>✨ Current Focus</h2>
@@ -42,7 +42,7 @@
   <li>🌱 Advanced SQL, experimentation/product analytics, time series</li>
   <li>🧠 LLM engineering: RAG patterns, evaluation, and reliability</li>
   <li>🤝 Open to collaborations on analytics products, ML, and LLM tooling</li>
-  <li>⚡ Fun fact: I built a proof-of-work “Bitcoin mining” demo in Python years ago 😄</li>
+  <li>⚡ Fun fact: I built a tiny proof-of-work “Bitcoin mining” demo in Python years ago 😄</li>
 </ul>
 
 <h2>🧰 Top Skills</h2>
@@ -70,6 +70,7 @@
 
 <p align="center">
   <b>Let’s connect:</b>
-  <a href="https://www.linkedin.com/in/piyush-c3757">LinkedIn</a> •
-  <a href="mailto:piyush99939@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/piyush-c3757" target="_blank">LinkedIn</a> •
+  <a href="mailto:piyush99939@gmail.com">Email</a> •
+  <a href="https://piyush-choudhary3757.github.io/My_site/" target="_blank">Portfolio</a>
 </p>
