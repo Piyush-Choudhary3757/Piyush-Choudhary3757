@@ -51,23 +51,6 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,sklearn,pytorch,tensorflow,git,github,linux,docker,aws,azure,gcp,opencv,matlab&perline=10" />
 </p>
 
-<h2>📌 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/Piyush-Choudhary3757/the-Fake-News-Detection-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=the-Fake-News-Detection-AI&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Piyush-Choudhary3757/Normal-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=Normal-project&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Piyush-Choudhary3757/CAP-5771-Introduction-to-Data-Mining">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Choudhary3757&repo=CAP-5771-Introduction-to-Data-Mining&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
 <h2>🏆 GitHub Trophies</h2>
 
 <p>
