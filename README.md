@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="banner" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Piyush Choudhary</h2>
+<h2 align="center">Hi 👋</h2>
 
 <p align="center">
   <b>Data Analyst (Water/Wastewater Ops)</b> • <b>Data Science & Scientific Computing</b> • <b>Python | SQL | Power BI</b> • <b>LLMs &amp; Agentic AI</b>
